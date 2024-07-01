@@ -1,0 +1,153 @@
+.contact-bg{
+    background-image: url(../image/about/bg.png);
+    width: 100%;
+    object-fit: contain;
+    background-size: cover;
+    /* padding-top: 30px; */
+    padding-bottom: 200px;
+    
+}
+.contact-bg .about-text h1{
+    text-align: center;
+    margin-top: 150px;
+    color: #fff;
+    font-size: 80px;
+    font-weight: 700;
+}
+
+
+/* {{-- have a question seaction start --}} */
+.contact h2{
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-size: 49px;
+}
+.contact p{
+    font-weight: 400;
+    font-size: 20px;
+}
+.contact input, textarea{
+    background: #EDECEC;
+    padding: 25px 10px;
+}
+.contact textarea.form-control {
+    background: #EDECEC;
+}
+.contact button{
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    background: #739337;
+    color: #fff;
+    font-weight: 700;
+    font-size: 23px;
+    border-radius: 10px;
+    border: none;
+}
+/* .contact .con-btn-form a{
+    text-decoration: none;
+    color: #fff;
+} */
+
+.contact .contact_get{
+    background-image: url(../image/contact/Group\ 8301.png);
+    width: 100%;
+    object-fit: contain;
+    background-size: cover;
+    padding-top: 30px;
+    /* padding-bottom: 200px; */
+    color: #fff;
+    border-radius: 10px;
+}
+.contact .contact_get .contact-text{
+    padding: 15px;
+}
+.contact .contact_get .contact-text h5{
+    font-size: 17px;
+    font-weight: 500;
+}
+.contact .contact_get .contact-text h3{
+    font-size: 30px;
+    font-weight: 700;
+}
+.contact .contact_get .contact-text .loca{
+    display: flex;
+    gap: 30px;
+    margin-top: 20px;
+}
+.contact .contact_get .contact-text .loca .icon i{
+    padding: 15px;
+    background: #fff;
+    border-radius: 50%;
+    color: black;
+    font-size: 23px;
+    line-height: 20px;
+}
+.contact .contact_get .contact-text .loca .loca_text h6{
+    font-size: 20px;
+    font-weight: 600;
+}
+.contact .contact_get .contact-text .loca .loca_text a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+.contact .contact_get .contact-text .social i{
+    background-color: #8D8B8B;
+    padding: 10px;
+    border-radius: 50%;
+    font-size: 20px;
+    margin-left: 20px;
+}
+/* {{-- have a question seaction end --}} */
+@media screen and (max-width: 1024px) and (min-width: 992px){
+    .contact .contact_get .contact-text .social i{
+        margin-left: 10px;
+    }
+}
+@media screen and (max-width: 991px) and (min-width: 768px){
+    .contact .col-lg-4{
+       margin-top: 20px;
+    }
+}
+@media screen and (max-width: 767px) and (min-width: 426px){
+
+}
+@media screen and (max-width: 425px) and (min-width: 376px) {
+    .contact-bg{
+        padding-bottom: 100px;
+    }
+    .contact-bg .about-text h1 {
+        font-size: 50px;
+        margin-top: 80px;
+    }
+    .contact h2{
+        font-size: 40px;
+    }
+    .contact p{
+        font-size: 18px;
+    }
+    .contact .col-lg-4{
+        margin-top: 20px;
+     }
+}
+@media screen and (max-width: 375px) and (min-width: 300px){
+    .contact-bg{
+        padding-bottom: 100px;
+    }
+    .contact-bg .about-text h1 {
+        font-size: 50px;
+        margin-top: 80px;
+    }
+    .contact h2{
+        font-size: 40px;
+    }
+    .contact p{
+        font-size: 18px;
+    }
+    .contact .col-lg-4{
+        margin-top: 20px;
+     }
+}

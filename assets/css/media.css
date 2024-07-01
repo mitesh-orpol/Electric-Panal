@@ -1,0 +1,1215 @@
+@media screen and (max-width: 1200px) and (min-width: 1023px){
+    header .navbar-nav .nav-item a {
+        margin: 0px 0px;
+    }
+    
+    .what .home-panal{
+        padding: 0 50px;
+    }
+}
+
+
+@media screen and (max-width: 1024px) and (min-width: 992px){
+    .what .home-panal{
+        padding: 0 50px;
+    }
+    .what .home-panal .box-panal{
+        top: -190px;
+    }
+    .offing-home .offing-home-text h1 {
+        font-size: 40px;
+        font-weight: 700;
+    }
+    .offing-home .offing-home-text h5 {
+        padding-top: 10px;
+        font-size: 20px;
+    }
+    .offing-home .offing-home-text p {
+        padding-top: 10px;
+        font-size: 18px;
+        margin-bottom: 0;
+    }
+    .offing-home .home-off-con .grt {
+        margin-top: 20px;
+    }
+    .offing-home .box h1 {
+        font-size: 35px;
+    }
+    .offing-home .box p {
+        font-size: 18px;
+    }
+    .home-product .show-product-home .card{
+        padding: 5px;
+    }
+    .home-product .show-product-home .card .overlay-text p {
+        font-size: 20px;
+        padding-top: 50%;
+    }
+    .home-product .show-product-home .card .overlay-text h5{
+        font-size: 18px;
+    }
+    .home-product .show-product-home .card .overlay-text .icon a{
+        font-size: 18px;
+        padding: 6px 11px;
+    }
+    .product-range-home .product-ele{
+        padding: 5px;
+    }
+    .product-range-home .product-ele .heading img{
+        left: 32%;
+    }
+    .product-range-home .product-ele .view{
+        display: none;
+    }
+    .product-range-home .product-ele h2{
+        margin-top: 35px;
+    }
+    .product-range-home .range-pr .overlay{
+        border-radius: 8px;
+    }
+    .product-range-home .range-pr .overlay p{
+        padding-top: 100px;
+        padding-left: 20px;
+    }
+    .product-range-home .range-pr .overlay h5{
+        font-size: 20px;
+        font-weight: 600;
+        padding-left: 20px;
+    }
+    .h-why-us .col-lg-3{
+        width: 100%;
+    }
+    .h-why-us .col-lg-6{
+        width: 100%;
+    }
+    .h-why-us .h-why-eng{
+        margin-top: 10px;
+    }
+    .h-why-us .h-why-eng .why-text p{
+        font-size: 15px;
+    }
+    .what-home .what-text .tex {
+        font-size: 30px;
+        width: 100%;
+    }
+    .what-home .what-text .we-text p {
+        font-size: 18px;
+    }
+    .what-home .what-text .we-text .box h5{
+        font-size: 20px;
+    }
+    .what-offer h1{
+        font-size: 45px;
+    }
+    .what-offer .box{
+        padding: 20px;
+    }
+    .what-offer .box h4{
+        font-size: 24px;
+    }
+    .experience-bg{
+        padding: 80px 0px 80px 0px;
+    }
+    .experience-bg .year .box {
+        padding: 10px;
+    }
+    .experience-bg .year .box h2 {
+        font-size: 30px;
+    }
+    .experience-bg .year .box p {
+        font-size: 15px;
+    }
+    .international .inter-ele{
+        padding: 40px;
+    }
+    .international .inter-ele h2{
+        font-size: 38px;
+    }
+    .international .inter-ele .txet-img p {
+        font-size: 19px;
+    }
+    .international .home-secure .secure {
+        margin-top: 100px;
+    }
+    .gallery-bg h1 {
+        width: 100%;
+        font-size: 45px;
+
+    }
+    .news-home .blog-box {
+        padding: 10px;
+    }
+    .news-home .blog-box .email-icon-blog .round {
+        top: 100px;
+        right: 88px
+    }
+    /* .request-quote .main-img .request-from {
+        left: 0;
+        bottom: -29px;
+        padding: 20px;
+    }
+    .request-quote .quote .heading {
+        margin-top: 30px;
+    }
+    .request-quote .quote {
+        width: 100%;
+    }
+    .request-quote .quote .heading img{
+        left: 22%;
+    }
+    .request-quote .quote h1{
+        margin-top: 35px;
+        font-size: 40px;
+    }
+    .request-quote .quote h6 {
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    .request-quote .quote .fuse{
+        margin-top: 15px;
+    } */
+    .req-from-home .price-de h3{
+        font-size: 34px;
+    }
+    .req-from-home .price-de .affor{
+        margin-top: 30px;
+    }
+    .req-from-home .get-free h2{
+        font-size: 33px;
+    }
+    .testimonial-home .box{
+        padding: 28px;
+    }
+    .testimonial-home .box img{
+        left: 27%;
+    }
+    .home-learn .lern-text{
+        display: block;
+    }
+    
+}
+
+
+
+@media screen and (max-width: 991px) and (min-width: 768px) {
+    .electric-header .phone{
+        display: none;
+    }
+    .electric-header .navbar-brand{
+        display: block;
+        margin: 0 auto;
+    }
+    .custom_nav-container .navbar-toggler {
+        outline: none;
+    }
+    .main-header .custom_nav2 .custom_nav-container{
+        justify-content: center;
+    }
+    .electric-header button:not(:disabled) {
+        margin-right: 20px;
+    }
+    header .get-button-header a{
+        margin-left: 20px;
+    }
+    .home-bg{
+        padding-bottom: 100px;
+    }
+    .home-bg .home-text{
+        padding-top: 100px;
+    }
+    .home-bg2{
+        padding-bottom: 100px;
+    }
+    .home-bg2 .home-text{
+        padding-top: 100px;
+    }
+    .home-bg3{
+        padding-bottom: 100px;
+    }
+    .home-bg3 .home-text{
+        padding-top: 100px;
+    }
+   .what .col-lg-6{
+    width: 50%;
+   }
+   .what .home-panal{
+    padding: 0px;
+   }
+   .what .home-panal .box-panal{
+    top: 14px;
+    padding: 20px;
+    border: 15px solid #87AB42;
+   }
+   .what .home-panal .box-panal h3{
+    font-size: 35px;
+   }
+   .home-what-do .col-lg-6{
+    width: 50%;
+   }
+   .home-what-do .col-lg-3{
+    width: 25%;
+   }
+   .home-what-do .whodo-txet {
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+    .home-what-do .whodo img{
+        left: 24%;
+    }
+   .home-what-do h1 {
+        font-size: 30px;
+        margin-top: 32px;
+    }
+    .home-what-do p {
+        font-size: 18px;
+        margin-top: 12px;
+    }
+    .home-what-do h4 {
+        font-size: 19px;
+        margin-top: 15px;
+        padding-left: 14px;
+    }
+    .home-what-do .do-you{
+        display: block;
+    }
+    .home-what-do .box {
+        padding: 22px 1px;
+    }
+    .home-what-do .box h6 {
+        font-size: 15px;
+    }
+    .what-offer h1{
+        font-size: 34px;
+        width: 100%;
+    }
+    .what-offer .col-lg-4{
+        width: 50%;
+    }
+   .offing-home .col-lg-6{
+    width: 50%;
+    }
+    .offing-home .offing-home-text h1{
+        font-size: 25px;
+    }
+    .offing-home .offing-home-text h5 {
+        padding-top: 10px;
+        font-size: 18px;
+    }
+    .offing-home .offing-home-text p{
+        padding-top: 10px;
+        font-size: 16px;
+    }
+    .offing-home .home-off-con{
+        display: none;
+    }
+    .offing-home .box{
+        display: none;
+    }
+    .product-range-home .product-ele .heading img{
+        left: 12%;
+    }
+    .product-range-home .range-pr .overlay p{
+        padding-top: 250px;
+    }
+    .h-why-us .h-why-eng .why-text p{
+        font-size: 15px;
+    }
+    .what-home .col-lg-6{
+        width: 50%;
+    }
+    .what-home h1{
+        /* margin: 18px; */
+        font-size: 40px;
+    }
+    .what-home .what-text .tex {
+        width: 100%;
+        margin-top: -20px;
+        padding: 5px 10px 5px 10px;
+        font-size: 23px;
+    }
+    .what-home .what-text .we-text p{
+        font-size: 19px;
+    }
+    .what-home .what-text .we-text .box {
+        display: none;
+    }
+    .experience-bg{
+        padding: 80px;
+    }
+    .experience-bg .col-lg-3{
+        width: 50%;
+        padding-top: 50px;
+    }
+    .international .col-lg-6{
+        width: 50%;
+    }
+    .international .inter-ele{
+        padding: 25px;
+    }
+    .international .inter-ele h2{
+        font-size: 22px;
+    }
+    .international .inter-ele .txet-img {
+        margin-top: 20px;
+        gap: 20px;
+    }
+    .international .inter-ele .txet-img p {
+        font-size: 18px;
+    }
+    .international .home-secure .secure {
+        margin-top: 30px;
+    }
+    .international .home-secure .secure img {
+        left: 20%;
+    }
+    .international .home-secure h1 {
+        margin-top: 25px;
+        font-size: 32px;
+    }
+    .international .home-secure p {
+        margin-top: 15px;
+        font-size: 19px;
+    }
+    .gallery-bg{
+        padding: 50px;
+    }
+    .gallery-bg h1{
+        width: 100%;
+        font-size: 37px;
+    }
+    .news-home h1{
+        font-size: 45px;
+    }
+    .news-home .col-lg-4{
+        width: 60%;
+    }
+    .news-home .col-lg-3{
+        width: 40%;
+    }
+    .news-home .blog-box .blog-sign {
+        padding: 11px;
+    }
+    /* .request-quote .quote {
+        width: 100%;
+    } */
+    
+    .req-from-home .get-free{
+        margin-top: 30px;
+    }
+    .req-from-home .get-free .col-lg-6{
+        width: 50%;
+    }
+    .home-learn .lern-text{
+        display: block;
+    }
+
+}
+
+@media screen and (max-width: 767px) and (min-width: 426px) {
+    .electric-header .phone{
+        display: none;
+    }
+    .electric-header .navbar-brand{
+        display: block;
+        margin: 0 auto;
+    }
+    .custom_nav-container .navbar-toggler {
+        outline: none;
+    }
+    .main-header .custom_nav2 .custom_nav-container{
+        justify-content: center;
+    }
+    .electric-header button:not(:disabled) {
+        margin-right: 20px;
+    }
+    .navbar-collapse{
+        background-color: #fff;
+    }
+    .electric-header .nav-item a{
+        color: black;
+    }
+    header .get-button-header a{
+        margin-left: 20px;
+        color: black;
+    }
+    .home-bg{
+        padding-bottom: 100px;
+    }
+    .home-bg .home-text h1 {
+        margin-top: 0px;
+        font-size: 45px;
+    }
+    .home-bg2 .home-text h1 {
+        margin-top: 0px;
+        font-size: 45px;
+    }
+    .home-bg3 .home-text h1 {
+        margin-top: 0px;
+        font-size: 45px;
+    }
+    .home-bg{
+        padding-bottom: 100px;
+    }
+    .home-bg .home-text{
+        padding-top: 100px;
+    }
+    .home-bg2{
+        padding-bottom: 100px;
+    }
+    .home-bg2 .home-text{
+        padding-top: 100px;
+    }
+    .home-bg3{
+        padding-bottom: 100px;
+    }
+    .home-bg3 .home-text{
+        padding-top: 100px;
+    }
+    .what .home-panal .box-panal{
+        display: none;
+    }
+    .what h1{
+        font-size: 45px;
+    }
+    .what .pcc .col-lg-6{
+        width: 50%;
+    }
+    .home-what-do .do-you{
+        display: block;
+    }
+    .what .box {
+        margin-top: 30px;
+    }
+    .what .box .round{
+        display: none;
+    }
+    .what-offer h1{
+        font-size: 34px;
+        width: 100%;
+    }
+    .offing-home .whowe{
+        margin-top: 50px;
+    }
+    .offing-home .offing-home-text h1 {
+        font-size: 45px;
+    }
+    .offing-home .offing-home-text h5{
+        font-size: 20px;
+    }
+    .offing-home .offing-home-text p{
+        font-size: 18px;
+    }
+    .offing-home .col-lg-7{
+        width: 60%;
+    }
+    .offing-home .col-lg-5{
+        width: 40%;
+    }
+    .offing-home .box h1{
+        font-size: 55px;
+    }
+    .home-product{
+        margin-top: 70px;
+    }
+    .home-product .main-heding-product h1{
+        font-size: 45px;
+    }
+    .home-product .main-heding-product p {
+        text-align: justify;
+        font-size: 18px;
+    }
+    .what-home h1{
+        font-size: 45px;
+        margin: 10px;
+    }
+    .what-home .two .col-lg-6{
+        width: 50%;
+    }
+    .what-home .what-text .tex {
+        width: 100%;
+        margin-top: 20px;
+        padding: 10px 25px 10px 30px;
+        font-size: 27px;
+    }
+    .what-home .what-text .we-text p {
+        font-size: 18px;
+    }
+    .what-home .pcc .col-lg-6{
+        width: 50%;
+    }
+    .experience-bg{
+        padding: 25px;
+    }
+    .experience-bg .col-lg-3{
+        width: 50%;
+        padding-top: 50px;
+    }
+    .international .inter-ele{
+        padding: 25px;
+    }
+    .international .inter-ele h2 {
+        font-size: 24px;
+    }
+    .international .inter-ele .txet-img p{
+        font-size: 18px;
+    }
+    .international .home-secure .secure {
+        margin-top: 40px;
+    }
+    .international .home-secure h1 {
+        margin-top: 30px;
+        font-size: 26px;
+    }
+    .international .home-secure p {
+        margin-top: 20px;
+        font-size: 18px;
+    }
+    .international .home-secure .secure-call {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .gallery-bg{
+        padding: 50px;
+    }
+    .gallery-bg h1{
+        width: 100%;
+        font-size: 37px;
+    }
+    .news-home{
+        margin-top: 60px;
+    }
+    .news-home h1{
+        font-size: 35px;
+    }
+    .news-home .blog-box .email-icon-blog .round{
+        display: none;
+    }
+    .news-home .blog-box .email-icon-blog {
+        margin-top: 0px;
+    }
+    /* .request-quote .main-img .request-from{
+        padding: 10px;
+    }
+    .request-quote .main-img .request-from h2{
+        font-size: 39px;
+    }
+    .request-quote .main-img .request-from p{
+        font-size: 14px;
+    }
+    .request-quote .quote{
+        width: 100%;
+    }
+    .request-quote .quote h1 {
+        font-size: 35px;
+        margin-top: 35px;
+    }     */
+
+    .req-from-home .get-free{
+        margin-top: 30px;
+    }
+    .req-from-home .get-free .col-lg-6{
+        width: 50%;
+    }
+    .home-learn .lern-text{
+        display: block;
+    }
+
+
+}
+
+@media screen and (max-width: 425px) and (min-width: 376px) {
+    .electric-header .phone{
+        display: none;
+    }
+    .electric-header .navbar-brand{
+        display: block;
+        margin: 0 auto;
+    }
+    .custom_nav-container .navbar-toggler {
+        outline: none;
+    }
+    .main-header .custom_nav2 .custom_nav-container{
+        justify-content: center;
+    }
+    .electric-header button:not(:disabled) {
+        margin-right: 20px;
+    }
+    .navbar-collapse{
+        background-color: #fff;
+    }
+    .electric-header .nav-item a{
+        color: black;
+    }
+    header .get-button-header a{
+        margin-left: 20px;
+        color: black;
+    }
+    .home-bg{
+        padding-bottom: 100px;
+    }
+    .home-bg .home-text h1 {
+        margin-top: 0px;
+        font-size: 35px;
+    }
+    .home-bg2 .home-text h1 {
+        margin-top: 0px;
+        font-size: 35px;
+    }
+    .home-bg3 .home-text h1 {
+        margin-top: 0px;
+        font-size: 35px;
+    }
+    .home-bg{
+        padding-bottom: 70px;
+    }
+    .home-bg .home-text{
+        padding-top: 50px;
+    }
+    .home-bg2{
+        padding-bottom: 70px;
+    }
+    .home-bg2 .home-text{
+        padding-top: 80px;
+    }
+    .home-bg3{
+        padding-bottom: 70px;
+    }
+    .home-bg3 .home-text{
+        padding-top: 50px;
+    }
+    .what h1{
+        font-size: 45px;
+    }
+    .what .home-panal .box-panal{
+        display: none;
+    }
+    .what .pcc .col-lg-6{
+        width: 50%;
+    }
+    .what .box {
+        margin-top: 30px;
+    }
+    .what .box .round{
+        display: none;
+    }
+    .home-what-do .whodo img{
+        left: 20%;
+    }
+    .home-what-do .do-you{
+        display: block;
+    }
+    .what-offer h1{
+        font-size: 34px;
+        width: 100%;
+    }
+    .offing-home{
+        margin-top: 30px;
+    }
+    .offing-home .whowe{
+        margin-top: 50px;
+    }
+    .offing-home .offing-home-text h1 {
+        font-size: 35px;
+    }
+    .offing-home .offing-home-text h5{
+        font-size: 18px;
+    }
+    .offing-home .offing-home-text p{
+        font-size: 17px;
+    }
+    
+    .offing-home .col-lg-7{
+        width: 60%;
+    }
+    .offing-home .col-lg-5{
+        width: 40%;
+    }
+    .offing-home .home-off-con a{
+        padding: 9px 34px;
+    }
+    .offing-home .home-off-con p {
+        font-size: 16px;
+    }
+    .offing-home .box h1{
+        font-size: 55px;
+    }
+    .offing-home .box p{
+        font-size: 16px;
+    }
+    .home-what-do{
+        margin-top: 30px;
+    }
+    .home-product {
+        margin-top: 50px;
+    }
+    .product-range-home .product-ele {
+        padding: 27px;
+    }
+    .product-range-home .product-ele .heading img{
+        left: 27%;
+    }
+    .product-range-home .range-pr .overlay p{
+        padding-top: 250px;
+    }
+    .home-what-do h1{
+        font-size: 37px;
+    }
+    .home-what-do p{
+        margin-top: 10px;
+    }
+    .home-what-do .do-more {
+        margin-top: 30px;
+    }
+    .home-what-do .do-more a{
+        font-size: 20px;
+        padding: 10px 20px;
+    }
+    .home-product .main-heding-product h1{
+        font-size: 40px;
+    }
+    .home-product .main-heding-product p {
+        text-align: justify;
+        font-size: 17px;
+    }
+    .what-home{
+        margin: 30px;
+    }
+    .what-home h1 {
+        font-size: 35px;
+        /* margin: 8px; */
+        margin-top: 20px;
+    }
+    .what-home .what-text .two img {
+        padding-bottom: 10px;
+        display: block;
+        margin: 0 auto;
+    }
+    .what-home .what-text .tex {
+        width: 100%;
+        margin-top: 10px;
+        padding: 6px 10px 10px 12px;
+        font-size: 22px;
+    }
+    .experience-bg{
+        padding: 25px;
+    }
+    .experience-bg .col-lg-3{
+        width: 50%;
+        padding-top: 50px;
+    }
+    .experience-bg .year .box{
+        padding: 10px;
+    }
+    .experience-bg .year .box .round {
+        width: 110px;
+        height: 110px;
+        line-height: 110px;
+    }
+    .experience-bg .year .box h2 {
+        margin-top: 52px;
+    }
+    .experience-bg .year .box p{
+        font-size: 16px;
+    }
+    .international .inter-ele {
+        padding: 10px;
+    }
+    .international .inter-ele h2 {
+        font-size: 30px;
+    }
+    .international .inter-ele .txet-img p {
+        font-size: 17px;
+    }
+    .international .inter-ele .txet-img {
+        margin-top: 20px;
+        gap: 20px;
+    }
+    .international .home-secure .secure {
+        margin-top: 40px;
+    }
+    .international .home-secure h1 {
+        margin-top: 30px;
+        font-size: 26px;
+    }
+    .international .home-secure p {
+        margin-top: 20px;
+        font-size: 18px;
+    }
+    .international .home-secure .secure-call {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .gallery-bg{
+        padding: 50px;
+    }
+    .gallery-bg h1{
+        width: 100%;
+        font-size: 35px;
+    }
+    .news-home{
+        margin-top: 30px;
+    }
+    .news-home h1 {
+        font-size: 35px;
+    }
+    .news-home .blog-box .email-icon-blog .round{
+        display: none;
+    }
+    /* .request-quote .main-img .request-from{
+        padding: 10px;
+        left: 0;
+        bottom: -49px;
+    }
+    .request-quote .main-img .request-from h2 {
+        font-size: 25px;
+    }
+    .request-quote .main-img .request-from .input {
+        padding: 2px;
+        margin-top: 5px;
+    }
+    .request-quote .main-img .request-from textarea {
+        padding: 2px;
+        margin-top: 5px;
+    }
+    .request-quote .quote .heading img {
+        left: 25%;
+    }
+    .request-quote .quote{
+        width: 100%;
+    }
+    .request-quote .quote h1 {
+        font-size: 35px;
+        margin-top: 35px;
+    }   */
+    .req-from-home .price-de .heading img{
+        left: 24%;
+    }
+    .req-from-home .price-de h3 {
+        font-size: 28px;
+        margin-top: 26px;
+    }
+    .req-from-home .price-de p {
+        margin-top: 15px;
+    }
+    .req-from-home .price-de .affor h5{
+        font-size: 22px;
+    }
+    .req-from-home .price-de .affor{
+        margin-top: 25px;
+    }
+    .req-from-home .get-free{
+        margin-top: 30px;
+        padding: 30px 15px;
+        box-shadow: 0px 0px 6.6px 0px #00000040;
+    }
+    .req-from-home .get-free .heading img{
+        left: 26%;
+    }
+    .req-from-home .get-free h2{
+        font-size: 28px;
+    }
+    .testimonial-home h1 {
+        font-size: 35px;
+    }
+    .home-learn .lern-text{
+        display: block;
+    }
+
+}
+
+@media screen and (max-width: 375px) and (min-width: 300px) {
+    .electric-header .phone{
+        display: none;
+    }
+    .electric-header .navbar-brand{
+        display: block;
+        margin: 0 auto;
+    }
+    .custom_nav-container .navbar-toggler {
+        outline: none;
+    }
+    .main-header .custom_nav2 .custom_nav-container{
+        justify-content: center;
+    }
+    .electric-header button:not(:disabled) {
+        margin-right: 20px;
+    }
+    .navbar-collapse{
+        background-color: #fff;
+    }
+    .electric-header .nav-item a{
+        color: black;
+    }
+    header .get-button-header a{
+        margin-left: 20px;
+        color: black;
+    }
+    .home-bg{
+        padding-bottom: 100px;
+    }
+    .home-bg .home-text h1 {
+        margin-top: 0px;
+        font-size: 35px;
+    }
+    .home-bg2 .home-text h1 {
+        margin-top: 0px;
+        font-size: 35px;
+    }
+    .home-bg3 .home-text h1 {
+        margin-top: 0px;
+        font-size: 35px;
+    }
+    .home-bg{
+        padding-bottom: 70px;
+    }
+    .home-bg .home-text{
+        padding-top: 50px;
+    }
+    .home-bg2{
+        padding-bottom: 70px;
+    }
+    .home-bg2 .home-text{
+        padding-top: 80px;
+    }
+    .home-bg3{
+        padding-bottom: 70px;
+    }
+    .home-bg3 .home-text{
+        padding-top: 50px;
+    }
+    .home-what-do .whodo img{
+        left: 22%;
+    }
+    .home-what-do .do-you{
+        display: block;
+    }
+    .what {
+        margin-top: 30px;
+    }
+    .what h1{
+        font-size: 40px;
+    }
+    .what .home-panal .box-panal{
+        display: none;
+    }
+    .what .box {
+        margin-top: 30px;
+    }
+    .what .box .round{
+        display: none;
+    }
+    .what-offer h1{
+        font-size: 34px;
+        width: 100%;
+    }
+    .offing-home{
+        margin-top: 30px;
+    }
+    .offing-home .whowe{
+        margin-top: 50px;
+    }
+    .offing-home .offing-home-text h1 {
+        font-size: 33px;
+    }
+    .offing-home .offing-home-text h5{
+        font-size: 18px;
+    }
+    .offing-home .offing-home-text p{
+        font-size: 17px;
+    }
+    .offing-home .home-off-con a{
+        padding: 9px 34px;
+    }
+    .offing-home .home-off-con p {
+        font-size: 16px;
+    }
+    .offing-home .box h1{
+        font-size: 55px;
+    }
+    .offing-home .box p{
+        font-size: 16px;
+    }
+
+    .home-product {
+        margin-top: 50px;
+    }
+    .product-range-home .product-ele {
+        padding: 23px;
+    }
+    .product-range-home .product-ele .heading img{
+        left: 30%;
+    }
+    .product-range-home .range-pr .overlay p{
+        padding-top: 200px;
+    }
+    .home-what-do h1{
+        font-size: 34px;
+    }
+    .home-what-do p{
+        margin-top: 10px;
+    }
+    .home-what-do .do-more {
+        margin-top: 30px;
+    }
+    .home-what-do .do-more a{
+        font-size: 20px;
+        padding: 10px 20px;
+    }
+    .home-product .main-heding-product h1{
+        font-size: 40px;
+    }
+    .home-product .main-heding-product p {
+        text-align: justify;
+        font-size: 17px;
+    }
+    .what-home{
+        margin: 30px;
+    }
+    .what-home h1 {
+        font-size: 30px;
+        /* margin: 22px; */
+    }
+    .what-home .what-text .two img {
+        padding-bottom: 10px;
+        display: block;
+        margin: 0 auto;
+    }
+    .what-home .what-text .tex {
+        width: 100%;
+        margin-top: 10px;
+        padding: 6px 10px 10px 12px;
+        font-size: 22px;
+    }
+    .experience-bg{
+        padding: 25px;
+    }
+    .experience-bg .col-lg-3{
+        /* width: 50%; */
+        padding-top: 50px;
+    }
+    .experience-bg .year .box{
+        padding: 10px;
+    }
+    .experience-bg .year .box p{
+        font-size: 16px;
+    }
+    .international .home-secure .secure img {
+        left: 18%;
+    }
+    .international .inter-ele {
+        padding: 10px;
+    }
+    .international .inter-ele h2 {
+        font-size: 30px;
+    }
+    .international .inter-ele .txet-img p {
+        font-size: 17px;
+    }
+    .international .inter-ele .txet-img {
+        margin-top: 20px;
+        gap: 20px;
+    }
+    .international .home-secure .secure {
+        margin-top: 40px;
+    }
+    .international .home-secure h1 {
+        margin-top: 30px;
+        font-size: 26px;
+    }
+    .international .home-secure p {
+        margin-top: 20px;
+        font-size: 18px;
+    }
+    .international .home-secure .secure-call {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .gallery-bg{
+        padding: 50px;
+    }
+    .gallery-bg h1{
+        width: 100%;
+        font-size: 30px;
+    }
+    .news-home{
+        margin-top: 30px;
+    }
+    .news-home h1 {
+        font-size: 30px;
+    }
+    .news-home .blog-big {
+        margin-top: 0px;
+    }
+    .news-home .blog-box .email-icon-blog .round{
+        display: none;
+    }
+    /* .request-quote .main-img .request-from{
+        padding: 10px;
+        left: 0;
+        bottom: -143px;
+    }
+    .request-quote .main-img .request-from h2 {
+        font-size: 25px;
+    }
+    .request-quote .main-img .request-from .input {
+        padding: 2px;
+        margin-top: 5px;
+    }
+    .request-quote .main-img .request-from textarea {
+        padding: 2px;
+        margin-top: 5px;
+    }
+    .request-quote .quote .heading img {
+        left: 28%;
+    }
+    .request-quote .quote{
+        width: 100%;
+    }
+    .request-quote .quote .heading {
+        position: relative;
+        margin-top: 179px;
+    }
+    .request-quote .quote h1 {
+        font-size: 35px;
+        margin-top: 35px;
+    }   */
+
+
+    .req-from-home .price-de .heading img{
+        left: 24%;
+    }
+    .req-from-home .price-de h3 {
+        font-size: 28px;
+        margin-top: 26px;
+    }
+    .req-from-home .price-de p {
+        margin-top: 15px;
+    }
+    .req-from-home .price-de .affor h5{
+        font-size: 22px;
+    }
+    .req-from-home .price-de .affor{
+        margin-top: 25px;
+        gap: 9px;
+    }
+    .req-from-home .get-free{
+        margin-top: 30px;
+        padding: 30px 15px;
+        box-shadow: 0px 0px 6.6px 0px #00000040;
+    }
+    .req-from-home .get-free .heading img{
+        left: 26%;
+    }
+    .req-from-home .get-free h2{
+        font-size: 28px;
+    }
+    .testimonial-home h1 {
+        font-size: 30px;
+    }
+    .testimonial-home .box img {
+        left: 29%;
+    }
+    .home-learn .lern-text{
+        display: block;
+    }
+}
